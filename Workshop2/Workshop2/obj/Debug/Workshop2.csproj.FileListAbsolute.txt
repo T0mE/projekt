@@ -1,0 +1,9 @@
+c:\users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\bin\Debug\Workshop2.exe.config
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\bin\Debug\Workshop2.exe
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\bin\Debug\Workshop2.pdb
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.csprojResolveAssemblyReference.cache
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.Form1.resources
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.Properties.Resources.resources
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.csproj.GenerateResource.Cache
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.exe
+C:\Users\tompu\documents\visual studio 2013\Projects\Workshop2\Workshop2\obj\Debug\Workshop2.pdb
